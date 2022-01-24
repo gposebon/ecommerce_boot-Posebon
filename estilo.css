@@ -1,0 +1,25 @@
+.rowHeader {
+    height: 100px;
+    border-bottom: solid 2px black;
+    border-top: solid 2px black;
+}
+
+.loginPosition {
+height: 100%;
+align-items:flex-start;
+padding: 5px;
+}
+
+.navHeader {
+    height: 50px;
+}
+
+.navFooter {
+    height: 50px;
+    background-color: rgb(58, 97, 84);
+}
+
+.navFooter a {
+    color: black;
+}
+
