@@ -15,7 +15,8 @@ padding: 5px;
 }
 
 .navFooter {
-    height: 50px;
+    align-items: center;
+    justify-content: center;
     background-color: rgb(58, 97, 84);
 }
 
@@ -23,3 +24,6 @@ padding: 5px;
     color: black;
 }
 
+.navFooter li {
+    margin: 2%;
+}
