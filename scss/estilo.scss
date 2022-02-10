@@ -64,12 +64,16 @@ i {
 
 }
 
-.tituloProductos {
+@mixin titulo {
     background-color: rgb(211,211,211);
     font-family: 'PT Sans', sans-serif;
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+.tituloProductos {
+    @include titulo();
     height: 50px;
     font-size: 2em;
     border-top: 2px solid black
