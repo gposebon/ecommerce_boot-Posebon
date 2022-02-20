@@ -96,3 +96,15 @@ i {
 
 .parrafosTexto {
   font-family: 'PT Sans', sans-serif; }
+
+.precio {
+  font-family: 'Roboto Mono', monospace;
+  font-size: 20px; }
+
+.linkCompra {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end; }
+
+.inputKilos {
+  width: 20%; }
