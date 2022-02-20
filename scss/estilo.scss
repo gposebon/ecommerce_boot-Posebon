@@ -107,5 +107,22 @@ i {
     font-size: 1em;
 }
 
+.tituloCards {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Cormorant Garamond', serif;
+    text-decoration: underline;
+}
 
+.textFooterCards {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    font-family: 'Cormorant Garamond', serif;
+}
+
+.parrafosTexto {
+    font-family: 'PT Sans', sans-serif;
+}
 
